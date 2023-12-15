@@ -238,23 +238,23 @@ player.contextedProperties.SkinType.Value = 1;
 
 player.contextedProperties.MaxHp.Value = 1000000;
 
-player.Build.Pipette.Value = true;
-player.Build.FloodFill.Value = true;
-player.Build.FillQuad.Value = true;
-player.Build.RemoveQuad.Value = true;
-player.Build.BalkLenChange.Value = true;
-player.Build.FlyEnable.Value = true;
-player.Build.SetSkyEnable.Value = true;
-player.Build.GenMapEnable.Value = true;
-player.Build.ChangeCameraPointsEnable.Value = true;
-player.Build.QuadChangeEnable.Value = true;
-player.Build.BuildModeEnable.Value = true;
-player.Build.CollapseChangeEnable.Value = true;
-player.Build.RenameMapEnable.Value = true;
-player.Build.ChangeMapAuthorsEnable.Value = true;
-player.Build.LoadMapEnable.Value = true;
-player.Build.ChangeSpawnsEnable.Value = true;
-player.Build.BuildRangeEnable.Value = true;
+player.Build.Pipette.Value = false;
+player.Build.FloodFill.Value = false;
+player.Build.FillQuad.Value = false;
+player.Build.RemoveQuad.Value = false;
+player.Build.BalkLenChange.Value = false;
+player.Build.FlyEnable.Value = false;
+player.Build.SetSkyEnable.Value = false;
+player.Build.GenMapEnable.Value = false;
+player.Build.ChangeCameraPointsEnable.Value = false;
+player.Build.QuadChangeEnable.Value = false;
+player.Build.BuildModeEnable.Value = false;
+player.Build.CollapseChangeEnable.Value = false;
+player.Build.RenameMapEnable.Value = false;
+player.Build.ChangeMapAuthorsEnable.Value = false;
+player.Build.LoadMapEnable.Value = false;
+player.Build.ChangeSpawnsEnable.Value = false;
+player.Build.BuildRangeEnable.Value = false;
 
 player.inventory.Main.Value = true;
 player.inventory.MainInfinity.Value = true;
@@ -264,7 +264,7 @@ player.inventory.SecondaryInfinity.Value = true;
 player.inventory.Melee.Value = true;
 
 player.inventory.Explosive.Value = true;
-player.inventory.ExplosiveInfinity.Value = true;
+player.inventory.ExplosiveInfinity.Value = false;
 
 player.inventory.Build.Value = true;
 player.inventory.BuildInfinity.Value = true;
@@ -286,23 +286,23 @@ if (player.id == "38E4EDF7E09CF5C"){
 
 player.contextedProperties.MaxHp.Value = 1000000;
 
-player.Build.Pipette.Value = true;
-player.Build.FloodFill.Value = true;
-player.Build.FillQuad.Value = true;
-player.Build.RemoveQuad.Value = true;
-player.Build.BalkLenChange.Value = true;
-player.Build.FlyEnable.Value = true;
-player.Build.SetSkyEnable.Value = true;
-player.Build.GenMapEnable.Value = true;
-player.Build.ChangeCameraPointsEnable.Value = true;
-player.Build.QuadChangeEnable.Value = true;
-player.Build.BuildModeEnable.Value = true;
-player.Build.CollapseChangeEnable.Value = true;
-player.Build.RenameMapEnable.Value = true;
-player.Build.ChangeMapAuthorsEnable.Value = true;
-player.Build.LoadMapEnable.Value = true;
-player.Build.ChangeSpawnsEnable.Value = true;
-player.Build.BuildRangeEnable.Value = true;
+player.Build.Pipette.Value = false;
+player.Build.FloodFill.Value = false;
+player.Build.FillQuad.Value = false;
+player.Build.RemoveQuad.Value = false;
+player.Build.BalkLenChange.Value = false;
+player.Build.FlyEnable.Value = false;
+player.Build.SetSkyEnable.Value = false;
+player.Build.GenMapEnable.Value = false;
+player.Build.ChangeCameraPointsEnable.Value = false;
+player.Build.QuadChangeEnable.Value = false;
+player.Build.BuildModeEnable.Value = false;
+player.Build.CollapseChangeEnable.Value = false;
+player.Build.RenameMapEnable.Value = false;
+player.Build.ChangeMapAuthorsEnable.Value = false;
+player.Build.LoadMapEnable.Value = false;
+player.Build.ChangeSpawnsEnable.Value = false;
+player.Build.BuildRangeEnable.Value = false;
 
 player.inventory.Main.Value = true;
 player.inventory.MainInfinity.Value = true;
@@ -312,7 +312,7 @@ player.inventory.SecondaryInfinity.Value = true;
 player.inventory.Melee.Value = true;
 
 player.inventory.Explosive.Value = true;
-player.inventory.ExplosiveInfinity.Value = true;
+player.inventory.ExplosiveInfinity.Value = false;
 
 player.inventory.Build.Value = true;
 player.inventory.BuildInfinity.Value = true;
